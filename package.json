@@ -4,8 +4,7 @@
   "description": "A lightweight JWT implementation with ZERO dependencies for Cloudflare Worker",
   "main": "dist/index.js",
   "scripts": {
-    "build": "webpack",
-    "lint": "tslint index.js"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
